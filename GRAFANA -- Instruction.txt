@@ -1,0 +1,16 @@
+
+INSTALAÇÃO GRAFANA
+# apt install gnupg2 apt-transport
+# wget -q -O - https://packages.gra
+# echo "deb https://packages.grafan
+
+# apt update
+# apt install grafana
+# systemctl daemon-reload
+# systemctl enable grafana-server
+# systemctl start grafana-server
+http://IP_URL:3000
+
+Integração Zabbix
+# grafana-cli plugins install alexa
+# systemctl restart grafana-server
